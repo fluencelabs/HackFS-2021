@@ -24,7 +24,7 @@ Please note that there may be opportunities to extend a project past HackFS.
 
 ## The Submission
 
-* You may use the Fluence [devcontainer](https://github.com/fluencelabs/devcontainer/tree/with-tutorial) to develop your solution in a repo of your choice
+* You may use the Fluence [devcontainer](https://github.com/fluencelabs/devcontainer) to develop your solution in a repo of your choice
 * Please add a detailed Readme, or even better, a short video to explain your idea and implementation
 * Feel free to contact the Fluence team to ask questions
 
@@ -32,7 +32,7 @@ Please note that there may be opportunities to extend a project past HackFS.
 
 * [Fluence documentation](https://doc.fluence.dev/docs/)
 * Fluence [Aqua book](https://doc.fluence.dev/aqua-book/)
-* Fluence [Devcontainer](https://github.com/fluencelabs/devcontainer/tree/with-tutorial)
+* Fluence [Devcontainer](https://github.com/fluencelabs/devcontainer)
 * Fluence [IPFS Apapter](https://github.com/fluencelabs/ipfs-adapter)
 * [Discord](https://discord.gg/mhfSK7tUjE)
 * Fluence [Youtube](https://www.youtube.com/channel/UC3b5eFyKRFlEMwSJ1BTjpbw) channel
