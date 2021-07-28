@@ -9,7 +9,7 @@ We are excited to to participate with you to build the decentralized web.
 
 Fluence provides the infrastructure and tools to enable decentralized compute in form of applications and backends on peer-to-peer networks. To this end, Fluence provides Aqua, a new-gen language to program distributed networks and services into decentralized applications.
 
-Fluence service are comprised of Wasm IT modules that execute on Fluence peer-to-peer network nodes and these modules, for example, can be stored on IPFS and deployed to the peer-to-peer network with Aqua. See this [video](https://www.youtube.com/watch?v=8FpZOjTVYiA) for a demo. Moreover, Aqua allows developers to bring peer-to-peer compute to a variety of use cases including, but not limited, IPLD and IPNS.
+Aqua operates over a p2p network of nodes providing hosted services powered by WebAssembly. This allows to bring p2p compute to variety of use cases including data storage, blockchains, identity and to develop custom hosted services and workflows using the Fluence stack. See this [video](https://www.youtube.com/watch?v=8FpZOjTVYiA) for a demo.
 
 
 ## The Prizes
