@@ -14,21 +14,16 @@ Fluence service are comprised of Wasm IT modules that execute on Fluence peer-to
 
 ## The Prizes
 
-Fluence is offering prices in both the pool and named categories.
+Fluence is offering three prices in the **named** category:
 
-### Pool Prizes:
+* USD xxx for the best integration of Fluence compute and Ceramic streams  [optional]
+* USD xxx for the best integration of Fluence compute and Textile threads  [optional]
 
-* USD 1,000 for best use of hosting a Fluence backend on IPFS using Aqua-IPFS
+* USD 500.00 for the best, functional implementation of Aqua bindings to [IPFS DAG](https://docs.ipfs.io/reference/cli/#ipfs-dag) similar Fluence's [IPFS Adapter](https://github.com/fluencelabs/ipfs-adapter). Maximum of three prizes.
 
-* USD 1,000 for the best use Aqua to add compute capabilities to any IPFS solution, e.g., blog, web site or IPLD in general
+* USD 1,000 for the best use of Aqua to add Fluence compute to IPLD solutions such as  IPFS hosted blogs or web sites
 
-### Named Prices
-
-* USD 2,000 for the best functional solution that brings [IPFS DAG](https://docs.ipfs.io/reference/cli/#ipfs-dag) bindings to ipfs-aqua and builds a project on that 
-
-* USD 1,000 for the best functional solution providing a performant [IPNS](https://docs.ipfs.io/concepts/ipns/#example-ipns-setup-with-cli ) solution with Aqua
-
-Please note that named prices may be combined with pool prizes. Moreover, there may be opportunities to extend a project past HackFS.
+Please note that there may be opportunities to extend a project past HackFS.
 
 ## The Submission
 
