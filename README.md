@@ -16,11 +16,15 @@ Fluence service are comprised of Wasm IT modules that execute on Fluence peer-to
 
 Fluence is offering three prices in the named category:
 
-* USD 2000 -- Best use of Fluence and IPLD
-* USD 2000 -- Best use of Fluence and IPNS
-* USD 2000 -- Best use of Fluence and Ceramic or Textile
+* USD 2,000 for the best use of Aqua to use Fluence compute to IPLD solutions such as 
+    * indexing and searching of IPFS hosted blogs or web sites
+    * indexing and searching of blockchain IPLD data
+    * creating [content addressable archive](https://ipld.io/specs/transport/) (CAR) file readers and writers
 
-Please note that there may be opportunities to extend a project past HackFS.
+* USD 2,000 for the best functional solution providing a performant IPNS solution with Aqua. For example, use [Aqua DHT](https://github.com/fluencelabs/aqua-dht) as the a name registry or name registry cache to speed up IPNS
+
+* USD 2,000 for the best integration of Fluence compute with Ceramic or Textile data layers or identities
+
 
 ## The Submission
 
